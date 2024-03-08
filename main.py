@@ -24,7 +24,7 @@ def predict(model, image):
 
 
 ## Load Model
-model_path = 'Model/cherry_leaf_model.h5'
+model_path = 'cherry_leaf_model.h5'
 model = load_model(model_path)
 
 if page == 'Single Image Prediction':

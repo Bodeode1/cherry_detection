@@ -57,12 +57,6 @@ rsa==4.9
 six==1.16.0
 smmap==5.0.1
 streamlit==0.85.0
-tensorboard==2.15.2
-tensorboard-data-server==0.7.2
-tensorflow
-tensorflow-estimator
-tensorflow-intel
-tensorflow-io-gcs-filesystem
 termcolor==2.4.0
 toml==0.10.2
 toolz==0.12.1
